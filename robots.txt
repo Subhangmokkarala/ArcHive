@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://subhangmokkarala.github.io/ArcHive/sitemap.xml
+Sitemap: https://archive.subhangmokkarala.me/sitemap.xml
