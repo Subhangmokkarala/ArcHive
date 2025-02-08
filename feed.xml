@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Subhang Mokkarala&#x27;s ArcHive</title>
+    <link href="https://subhangmokkarala.me/ArcHive/feed.xml" rel="self" />
+    <link href="https://subhangmokkarala.me/ArcHive" />
+    <updated>2025-02-08T22:21:58+05:30</updated>
+    <author>
+        <name>Subhang Mokkarala</name>
+    </author>
+    <id>https://subhangmokkarala.me/ArcHive</id>
+
+    <entry>
+        <title>A Homelabber’s Guide to the Galaxy</title>
+        <author>
+            <name>Subhang Mokkarala</name>
+        </author>
+        <link href="https://subhangmokkarala.me/ArcHive/my-journey-into-homelab.html"/>
+        <id>https://subhangmokkarala.me/ArcHive/my-journey-into-homelab.html</id>
+
+        <updated>2025-02-08T18:00:00+05:30</updated>
+            <summary>
+                <![CDATA[
+                    The blog may or may not be interesting but its a fun way to relive and cherish memories …. When i was 11 years old (2015) i got a Tablet and HDD and was introduced to computers and the world of "Torrentino" (Torrents and Tarantino)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+
+  <p>
+    The blog may or may not be interesting but its a fun way to relive and cherish memories ….
+  </p>
+
+  <p>
+    
+  </p>
+
+    <h2 id="it-all-started-when-i-was-11-the-origin-story">
+      "It All Started When I Was 11" – The Origin Story
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/BC-8441_Tab_S2_8.2in_Black_708x530_04.jpg" height="530" width="708" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-xs.jpg 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-sm.jpg 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-md.jpg 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-lg.jpg 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-xl.jpg 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-2xl.jpg 1920w">
+      <figcaption>Galaxy Tab s2 </figcaption>
+    </figure>
+
+  <p>
+    When i was 11 years old (2015) i got a Tablet and HDD and was introduced to computers and the world of "<b>Torrentino</b>" (Torrents and Tarantino) Kudos if you get the reference , i got curious on that cuz kids in my neighbourhood used to get their media from some older kids in the block , once i asked the older one from where do you "Legally Acquire Stuff" he didn't tell me cuz he wanted to shield me from dangers of the internet i guess … but it sparked curiosity and led me to find the source.
+  </p>
+
+    <h2 id="welcome-to-the-grid-discovering-network-shares-tron-reference">
+      "Welcome to the Grid" – Discovering Network Shares (Tron reference)
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/5ce426d9a4a48f75aee6f062_what-is-a-computer-network.jpg" height="301" width="873" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-xs.jpg 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-sm.jpg 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-md.jpg 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-lg.jpg 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-xl.jpg 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    at 14 I had to share/Copy files to devices and it was a bit of hassle. but then i came across on the idea of having a network file storage , I didn't know the exact words for the method or process so google was at my palm and I started to begin searching on how can i fix and how to even understand what i need …and then I found network shares from routers etc.
+  </p>
+
+    <h2 id="the-dark-age-when-my-gadgets-were-banished">
+      "The Dark Age" – When My Gadgets Were Banished
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/alex-mannion-screenshot1.jpg" height="1322" width="2500" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-xs.jpg 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-sm.jpg 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-md.jpg 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-lg.jpg 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-xl.jpg 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    At 15 I was stripped off of gadgets and they were hidden in a closet.
+  </p>
+
+    <h2 id="i-find-your-lack-of-nas-disturbing-first-encounter-with-network-storage-star-wars-reference">
+      "I Find Your Lack of NAS Disturbing" – First Encounter with Network Storage (Star wars reference)
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/E3R8AZKXIAAQ9om.jpg" height="969" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-xs.jpg 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-sm.jpg 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-md.jpg 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-lg.jpg 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-xl.jpg 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    At 16&nbsp; i had a Jio Fiber router/access point (Sercomm) one , i came across ftp server and i tried it and it was like so bad with the transfer speeds and i began searching for an alternative and came across NAS (Network Attached Storage) and there was no way for me to convince my parents to get me a NAS and understood that HDD's are more costly and came across redundancy and replication of storage Then i came across Plex and Emby Media Servers and Then hit with paywall features and stuff ...
+  </p>
+
+    <h2 id="the-fellowship-of-the-server-joining-the-foss-andamp-linux-realm-lord-of-the-rings-reference">
+      "The Fellowship of the Server" – Joining the FOSS &amp; Linux Realm (Lord of the Rings reference)
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/the-fellowship-walking-in-lord-of-the-rings.avif" height="[object Object]" width="[object Object]" alt="" >
+      
+    </figure>
+
+  <p>
+    At 17 I've Joined Engineering (Electronics and Communications Stream) then i got my own laptop with which i can do anything (breaking it was the only limit ofc) then I've started Jellyfin for a while when i was at home and outside and joined a University club on FOSS (Freedom and Open Source Software) and Linux , Honestly it was Mixed feelings .Then I've introduced Jellyfin to my friends , some liked it , some felt it was a waste of selfhosting stuff and we chose Netflix (ik I've broken streak of being Jacksparrow) and due to Grub issues and Display driver issue i stopped dual booting windows. Then i started using WSL on windows it wasn't that great in beginning but found my way through it. Then i came across Networking 101 and Communications 101 , then i came to know about physical devices and medium of transfers . Honestly it wasn't UpToDate and felt like it wasn't my turf for a bit just to spiral into it again. Then I've dug deep to learn about NAT , how does carriers use double NAT to protect and keep IPV4 from running out and how they fail to implement IPV6 and also understood what can happen with IPV6 if its also used as local Ip.
+  </p>
+
+    <h2 id="andnbspwelcome-to-the-mainframe-falling-into-the-homelab-rabbit-hole-matrix-referenceandnbsp">
+      &nbsp;"Welcome to the Mainframe" – Falling Into the Homelab Rabbit Hole (Matrix reference)&nbsp;
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/giBJ0ezYNEobFBfB8H4JNTjmll.jpeg" height="675" width="1200" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-xs.jpeg 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-sm.jpeg 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-md.jpeg 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-lg.jpeg 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-xl.jpeg 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-2xl.jpeg 1920w">
+      
+    </figure>
+
+  <p>
+    At 18 I've fallen into the rabbit hole of homelabbing and local servers and hosting stuff and what i can host with my own servers and how much beneficial to me if i can host stuff on my own... Then i found that i had Digital ocean Credits with my GitHub Student Pack , so well then i got to know that i can pop a VM and use the public ip , so I've started to host Minecraft Servers on those VM's and used port and ip to connect in game to play with friends. with this i had practically used SSH and bash and pushed world data to GitHub&nbsp; using git as droplets were costly and we don't play daily. And then I've seen i can mask Ip with a human rememberable name with help of a domain from a DNS provider and I've seen that Namecheap was giving free domain with GitHub Student Developer pack and started to use DNS from then and like all good things come to end , we hit with a long pause in Minecraft ...
+  </p>
+
+  <p>
+    At 19 I've acquired a OEM Office Pc , keeping in mind with the power usage as i want it to be running 24/7 , I've chosen a More thread Cpu than the latest one Why ? Cuz its cheaper so I've picked a i7-8700 with 6 core and 12 Threads rather a i7-9700 with 8 core and 8 threads.
+  </p>
+
+  <p>
+    <b>Current Specs:</b>
+  </p>
+
+  <p>
+    Intel i7 8700&nbsp;
+  </p>
+
+  <p>
+    32gb 2666mhz ram
+  </p>
+
+  <p>
+    500gb bootdrive and vm storage
+  </p>
+
+  <p>
+    2x 1tb hdd's for NAS&nbsp;
+  </p>
+
+  <p>
+    Nvidia T600 Transcoding and occasional Light ML testing
+  </p>
+
+    <h2 id="proxmox-into-the-hypervisor-verse-virtualization-begins-spider-verse-reference">
+      "Proxmox: Into the Hypervisor-Verse" – Virtualization Begins (Spider-Verse reference)
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/Proxmox-VE-Architecture-Services-and-User-Tools.webp" height="720" width="1280" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-xs.webp 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-sm.webp 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-md.webp 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-lg.webp 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-xl.webp 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-2xl.webp 1920w">
+      
+    </figure>
+
+  <p>
+    Then I've Installed Proxmox as Hypervisor Os , so i can test out different distros and Os . I have encountered a lot of issues with RTL8111 Ethernet Drivers and Stuff but eventually got them Sorted out .
+  </p>
+
+    <h2 id="tailscale-the-vpn-strikes-back-beating-cgnat-like-a-boss-star-wars-reference-again-but-hey-it-fits">
+      "Tailscale: The VPN Strikes Back" – Beating CGNAT Like a Boss (Star Wars reference again, but hey, it fits!)
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/tailscale-001.webp" height="542" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/tailscale-001-xs.webp 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/tailscale-001-sm.webp 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/tailscale-001-md.webp 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/tailscale-001-lg.webp 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/tailscale-001-xl.webp 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/tailscale-001-2xl.webp 1920w">
+      
+    </figure>
+
+  <p>
+    First i have installed Tailscale on LXC .. why ? Cuz LXCs are lighter, faster, and easier than VMs and it uses same kernel as Host. I've installed Tailscale cuz My isp is behind a CGNAT and also it doesn't even allot a public ipv4 for router&nbsp;in this case i can’t simply open ports. Tailscale is just simplifying the setup process. Also tailscale is basically a reverse VPN tunnel. It can traverse NAT and especially is helpful. It is Much Safer and i can also use Exit nodes to route my traffic to home network and i can connect my devices in tailscale with a 10.0.0.x address inside regardless of what network i use mobile data or WIFI and tailscale Ip addresses aren't exposed to internet.
+  </p>
+
+    <h2 id="zfs-or-nothing-truenasandnbsp">
+      "ZFS or Nothing" – TrueNAS&nbsp;
+    </h2>
+
+  <p>
+    Then i have installed Truenas as a Virtualized NAS for centralized data storage, allowing easy access and sharing of files across a network and also it got great support for ZFS , snapshotting and Flexible RAID configurations
+  </p>
+
+  <p>
+    All the Vms are bridged in proxmox.
+  </p>
+
+    <h2 id="homelab-2077">
+      "Homelab 2077"
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/rack-focus-blinking-server-lights-footage-069066931_iconl.webp" height="268" width="480" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-xs.webp 640w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-sm.webp 768w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-md.webp 1024w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-lg.webp 1366w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-xl.webp 1600w ,https://subhangmokkarala.me/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-2xl.webp 1920w">
+      
+    </figure>
+
+  <p>
+    There it started tinkering and tweaking . Been Running CICD tools , docker containers metrics monitors , jellyfin server , arr stack , databases , immich , adblock DNS and many more ….
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    Hey if you reached the end reading whole thing
+  </p>
+
+  <p>
+    &nbsp;Congrats Officially you're Whiz now !!!&nbsp;
+  </p>
+
+  <p>
+    If you have any Homelab setups , what are the specs and what are you running and im open to recommendations for my setup
+  </p>
+
+    <h2 id="hasta-la-vista-downtime-the-future-of-my-homelab-terminator-reference">
+      "Hasta La Vista, Downtime" – The Future of My Homelab (Terminator reference)
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://subhangmokkarala.me/ArcHive/media/posts/1/2Ry.gif" height="205" width="480" alt="" >
+      
+    </figure>
+
+  <p>
+    Here's to Hosting and Acquiring More Computational Power ,Raid and High Availability...
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Where I&#x27;ve dipped my toes and messing with</title>
+        <author>
+            <name>Subhang Mokkarala</name>
+        </author>
+        <link href="https://subhangmokkarala.me/ArcHive/where-ive-dipped-my-toes-and-mess-with.html"/>
+        <id>https://subhangmokkarala.me/ArcHive/where-ive-dipped-my-toes-and-mess-with.html</id>
+
+        <updated>2025-01-01T20:00:00+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
