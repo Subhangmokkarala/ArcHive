@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Subhang Mokkarala&#x27;s ArcHive</title>
-    <link href="https://archive.subhangmokkarala.me/feed.xml" rel="self" />
-    <link href="https://archive.subhangmokkarala.me" />
+    <link href="https://subhangmokkarala.github.io/ArcHive/feed.xml" rel="self" />
+    <link href="https://subhangmokkarala.github.io/ArcHive" />
     <updated>2025-02-08T22:21:58+05:30</updated>
     <author>
         <name>Subhang Mokkarala</name>
     </author>
-    <id>https://archive.subhangmokkarala.me</id>
+    <id>https://subhangmokkarala.github.io/ArcHive</id>
 
     <entry>
         <title>A Homelabber’s Guide to the Galaxy</title>
         <author>
             <name>Subhang Mokkarala</name>
         </author>
-        <link href="https://archive.subhangmokkarala.me/my-journey-into-homelab.html"/>
-        <id>https://archive.subhangmokkarala.me/my-journey-into-homelab.html</id>
+        <link href="https://subhangmokkarala.github.io/ArcHive/my-journey-into-homelab.html"/>
+        <id>https://subhangmokkarala.github.io/ArcHive/my-journey-into-homelab.html</id>
 
         <updated>2025-02-08T18:00:00+05:30</updated>
             <summary>
@@ -43,7 +43,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/BC-8441_Tab_S2_8.2in_Black_708x530_04.jpg" height="530" width="708" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-xs.jpg 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-sm.jpg 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-md.jpg 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-lg.jpg 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-xl.jpg 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-2xl.jpg 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/BC-8441_Tab_S2_8.2in_Black_708x530_04.jpg" height="530" width="708" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-xs.jpg 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-sm.jpg 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-md.jpg 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-lg.jpg 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-xl.jpg 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/BC-8441_Tab_S2_8.2in_Black_708x530_04-2xl.jpg 1920w">
       <figcaption>Galaxy Tab s2 </figcaption>
     </figure>
 
@@ -56,7 +56,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/5ce426d9a4a48f75aee6f062_what-is-a-computer-network.jpg" height="301" width="873" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-xs.jpg 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-sm.jpg 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-md.jpg 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-lg.jpg 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-xl.jpg 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-2xl.jpg 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/5ce426d9a4a48f75aee6f062_what-is-a-computer-network.jpg" height="301" width="873" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-xs.jpg 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-sm.jpg 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-md.jpg 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-lg.jpg 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-xl.jpg 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/5ce426d9a4a48f75aee6f062_what-is-a-computer-network-2xl.jpg 1920w">
       
     </figure>
 
@@ -69,7 +69,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/alex-mannion-screenshot1.jpg" height="1322" width="2500" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/alex-mannion-screenshot1-xs.jpg 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/alex-mannion-screenshot1-sm.jpg 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/alex-mannion-screenshot1-md.jpg 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/alex-mannion-screenshot1-lg.jpg 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/alex-mannion-screenshot1-xl.jpg 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/alex-mannion-screenshot1-2xl.jpg 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/alex-mannion-screenshot1.jpg" height="1322" width="2500" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-xs.jpg 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-sm.jpg 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-md.jpg 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-lg.jpg 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-xl.jpg 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/alex-mannion-screenshot1-2xl.jpg 1920w">
       
     </figure>
 
@@ -82,7 +82,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/E3R8AZKXIAAQ9om.jpg" height="969" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/E3R8AZKXIAAQ9om-xs.jpg 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/E3R8AZKXIAAQ9om-sm.jpg 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/E3R8AZKXIAAQ9om-md.jpg 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/E3R8AZKXIAAQ9om-lg.jpg 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/E3R8AZKXIAAQ9om-xl.jpg 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/E3R8AZKXIAAQ9om-2xl.jpg 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/E3R8AZKXIAAQ9om.jpg" height="969" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-xs.jpg 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-sm.jpg 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-md.jpg 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-lg.jpg 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-xl.jpg 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/E3R8AZKXIAAQ9om-2xl.jpg 1920w">
       
     </figure>
 
@@ -95,7 +95,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/the-fellowship-walking-in-lord-of-the-rings.avif" height="[object Object]" width="[object Object]" alt="" >
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/the-fellowship-walking-in-lord-of-the-rings.avif" height="[object Object]" width="[object Object]" alt="" >
       
     </figure>
 
@@ -108,7 +108,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/giBJ0ezYNEobFBfB8H4JNTjmll.jpeg" height="675" width="1200" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-xs.jpeg 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-sm.jpeg 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-md.jpeg 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-lg.jpeg 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-xl.jpeg 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-2xl.jpeg 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/giBJ0ezYNEobFBfB8H4JNTjmll.jpeg" height="675" width="1200" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-xs.jpeg 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-sm.jpeg 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-md.jpeg 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-lg.jpeg 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-xl.jpeg 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/giBJ0ezYNEobFBfB8H4JNTjmll-2xl.jpeg 1920w">
       
     </figure>
 
@@ -149,7 +149,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/Proxmox-VE-Architecture-Services-and-User-Tools.webp" height="720" width="1280" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-xs.webp 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-sm.webp 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-md.webp 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-lg.webp 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-xl.webp 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-2xl.webp 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/Proxmox-VE-Architecture-Services-and-User-Tools.webp" height="720" width="1280" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-xs.webp 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-sm.webp 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-md.webp 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-lg.webp 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-xl.webp 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/Proxmox-VE-Architecture-Services-and-User-Tools-2xl.webp 1920w">
       
     </figure>
 
@@ -162,7 +162,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/tailscale-001.webp" height="542" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/tailscale-001-xs.webp 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/tailscale-001-sm.webp 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/tailscale-001-md.webp 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/tailscale-001-lg.webp 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/tailscale-001-xl.webp 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/tailscale-001-2xl.webp 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/tailscale-001.webp" height="542" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/tailscale-001-xs.webp 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/tailscale-001-sm.webp 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/tailscale-001-md.webp 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/tailscale-001-lg.webp 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/tailscale-001-xl.webp 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/tailscale-001-2xl.webp 1920w">
       
     </figure>
 
@@ -187,7 +187,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/rack-focus-blinking-server-lights-footage-069066931_iconl.webp" height="268" width="480" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://archive.subhangmokkarala.me/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-xs.webp 640w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-sm.webp 768w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-md.webp 1024w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-lg.webp 1366w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-xl.webp 1600w ,https://archive.subhangmokkarala.me/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-2xl.webp 1920w">
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/rack-focus-blinking-server-lights-footage-069066931_iconl.webp" height="268" width="480" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-xs.webp 640w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-sm.webp 768w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-md.webp 1024w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-lg.webp 1366w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-xl.webp 1600w ,https://subhangmokkarala.github.io/ArcHive/media/posts/1/responsive/rack-focus-blinking-server-lights-footage-069066931_iconl-2xl.webp 1920w">
       
     </figure>
 
@@ -216,7 +216,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://archive.subhangmokkarala.me/media/posts/1/2Ry.gif" height="205" width="480" alt="" >
+      <img loading="lazy" src="https://subhangmokkarala.github.io/ArcHive/media/posts/1/2Ry.gif" height="205" width="480" alt="" >
       
     </figure>
 
@@ -231,8 +231,8 @@
         <author>
             <name>Subhang Mokkarala</name>
         </author>
-        <link href="https://archive.subhangmokkarala.me/where-ive-dipped-my-toes-and-mess-with.html"/>
-        <id>https://archive.subhangmokkarala.me/where-ive-dipped-my-toes-and-mess-with.html</id>
+        <link href="https://subhangmokkarala.github.io/ArcHive/where-ive-dipped-my-toes-and-mess-with.html"/>
+        <id>https://subhangmokkarala.github.io/ArcHive/where-ive-dipped-my-toes-and-mess-with.html</id>
 
         <updated>2025-01-01T20:00:00+05:30</updated>
             <summary></summary>
